@@ -8,8 +8,7 @@
         "video stream",
         "pyrogram"
     ],
-    "website": "https://t.me/logi_channel",
-    "repository": "https://github.com/LOGI-LAP/music-video-streamer",
+    "website": "https://t.me/logi_channel"
     "success_url": "https://t.me/cl_me_logesh",
     "env": {
         "API_ID": {
